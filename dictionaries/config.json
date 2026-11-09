@@ -1,0 +1,7 @@
+{
+  "primary_language": "english",
+  "target_language": "ukrainian",
+  "trigger_hotkey": "ctrl + alt + l",
+  "paste_automatically": true,
+  "play_sound_on_swap": false
+}
